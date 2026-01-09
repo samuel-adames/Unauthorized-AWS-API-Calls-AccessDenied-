@@ -1,4 +1,4 @@
 ## Evidence
 
-![Failed Login Detection](screenshots/screenshot-failedlogin-detection.png)
+![Failed Login Detection](screenshot-failedlogin-detection.png)
 
