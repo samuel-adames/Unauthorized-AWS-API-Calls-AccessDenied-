@@ -1,0 +1,2 @@
+index=main sourcetype=_json errorCode=AccessDenied
+| table _time userIdentity.userName eventSource eventName sourceIPAddress
